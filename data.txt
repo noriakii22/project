@@ -31,3 +31,9 @@ asdfasdfasdf 13123123 123123 123123
 asdfasdfasdf 13123123 123123 123123
 asdfasdfasdf 13123123 123123 123123
 asdfasdfasdf 13123123 123123 123123
+<<<<<<< HEAD
+=======
+23123123 123123 123123 123123
+234234 dasfdsfds fdsf3e r234234
+hoihio yiyfio uouio uioli
+>>>>>>> 2bafdd11a54c10e1a8d0f1fcd8ab81af4360c481
