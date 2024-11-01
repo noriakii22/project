@@ -97,3 +97,6 @@ app.get("/tests", (req, res)=>{
 app.get("/quizz", (req, res)=>{
     res.sendFile(path.join(__dirname,'views','quizz.html'));
 });
+app.get("/zxc", (req, res)=>{
+    res.sendFile(path.join(__dirname,'views','zxc.html'));
+});
