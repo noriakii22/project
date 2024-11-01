@@ -96,10 +96,4 @@ app.get("/tests", (req, res)=>{
 });
 app.get("/quizz", (req, res)=>{
     res.sendFile(path.join(__dirname,'views','quizz.html'));
-<<<<<<< HEAD
 });
-=======
-});
-
-// https://contract.gosuslugi.ru/?utm_source=ydirect-rsy&utm_medium=iri-social_cpc&utm_campaign=434-01-10-02_oct-2024_114831462&utm_content=banners_tgb-rectangle_n14_16561997846&utm_term=m_18-54_rf_na_sibfo-geo_desktop_yandex.ru_5500580260&yclid=14752117623220600831
->>>>>>> 2bafdd11a54c10e1a8d0f1fcd8ab81af4360c481
