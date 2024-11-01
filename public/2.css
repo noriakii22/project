@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 155, 34);
+}
+.test-class{
+    margin-right: 20%;
+    margin-left: 20%;
+
+}
+h1{
+    text-align: center;
+    font: caption;
+    font-size: 80px ;
+}
+
+#body2{
+    background-color: rgb(221, 114, 198);
+}
+
+#brawler{
+    width:100%;
+    height: 250px;
+}
+p{
+    background-color: rgb(221, 177, 212);
+    margin-top:50px;
+    font-size: 50px;
+}
